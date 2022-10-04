@@ -4,9 +4,7 @@
 - 📫 Você pode me localizar pelo meu e-mail eduardo.duboc@escola.br.gov.br
 
 
-seções (#), subseções (##), itálico
-(*texto*), negrito (**texto**), formato de resposta (>), links ([]()) e imagens (![]()).
-<!---
+
 eduardoduboc/eduardoduboc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
